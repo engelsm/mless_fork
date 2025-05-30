@@ -1,3 +1,5 @@
+Name: Marlon Engels
+
 # MLESS Homework
 
 This repository contains all assignments for the MLESS course. Each assignment is organized in its own folder with a dedicated README file describing the work.
