@@ -7,8 +7,7 @@ This repository contains all assignments for the MLESS course. Each assignment i
 ## Structure
 
 - homework1/: Contains Homework 1 submission, including a Jupyter Notebook implementing a ResNet-based landcover detection model with evaluation metrics.
-
-(Additional folders will be added for future assignments)
+- homework2/: Contains Homework 2 submission, including multiple Jupyter Notebooks implementing different timeseries forecasting techniques.
 
 ## License
 
