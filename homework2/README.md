@@ -1,4 +1,4 @@
-This folder contains my submission for Homework 2 for the MLESS course.
+This folder contains my submission for Homework 2 of the MLESS course.
 
 ## File structure
 - Forecast model results are inside the /forecasts folder. This folder also includes the X_test_sample and y_test_sample csv files. All those are needed for plotting in Task_1.ipynb.
@@ -6,7 +6,7 @@ This folder contains my submission for Homework 2 for the MLESS course.
 
 ## My Contributions
 - Added data exports for all forecast models.
-- Solved Task 1 of the homework assignment by creating a compilation plot of all forecast models.
+- Solved Task 1 of the homework assignment by creating a compilation plot of all forecast models. I created a new Notebook Task_1 instead of using the existing Notebook 7, as I think this improves file structure clarity with one notebook per task.
 - Solved Task 2 of the homework assignment by implementing a MLP accepting temperature and o3 as input and o3 as output.
 - Solved Task 3 of the homework assignment by extending the MLP of Task 2 to also use future temperature values as input and comparing performance of Task 2 and 3 models.
 - Included comments and markdown cells to document the code.
