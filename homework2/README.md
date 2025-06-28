@@ -1,3 +1,18 @@
+This folder contains my submission for Homework 2 for the MLESS course.
+
+## File structure
+- Forecast model results are inside the /forecasts folder. This folder also includes the X_test_sample and y_test_sample csv files. All those are needed for plotting in Task_1.ipynb.
+- Task_1, Task_2_MLP, Task_3_MLP are notebooks including code to the corrresponding task from the second homework assignment.
+
+## My Contributions
+- Added data exports for all forecast models.
+- Solved Task 1 of the homework assignment by creating a compilation plot of all forecast models.
+- Solved Task 2 of the homework assignment by implementing a MLP accepting temperature and o3 as input and o3 as output.
+- Solved Task 3 of the homework assignment by extending the MLP of Task 2 to also use future temperature values as input and comparing performance of Task 2 and 3 models.
+- Included comments and markdown cells to document the code.
+
+Below is the original description of the parent repository with the original description of the files.
+---
 # Timeseries analysis and forecasting based on TOAR data
 
 The [Tropospheric Ozone Assessment Report (TOAR)](https://igacproject.org/activities/TOAR) is an international research activity to provide globally consistent information on the distribution and trends of the air pollutant ozone in the lower part of the atmosphere. Ozone impacts human health, vegetation, and climate, and TOAR provides the data and analyses to quantify the damage caused by ozone.
