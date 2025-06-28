@@ -5,7 +5,7 @@ This folder contains my submission for Homework 2 of the MLESS course.
 - Task_1, Task_2_MLP, Task_3_MLP are notebooks including code to the corrresponding task from the second homework assignment.
 
 ## My Contributions
-- Added data exports for all forecast models.
+- Added data exports for all forecast models. These export cells are located in Notebooks 3,4,5,6 and are marked with a 🐱 emoji.
 - Solved Task 1 of the homework assignment by creating a compilation plot of all forecast models. I created a new Notebook Task_1 instead of using the existing Notebook 7, as I think this improves file structure clarity with one notebook per task.
 - Solved Task 2 of the homework assignment by implementing a MLP accepting temperature and o3 as input and o3 as output.
 - Solved Task 3 of the homework assignment by extending the MLP of Task 2 to also use future temperature values as input and comparing performance of Task 2 and 3 models.
